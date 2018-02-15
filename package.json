@@ -1,0 +1,37 @@
+{
+  "name": "@types/scalartypes",
+  "displayName": "@types/scalartypes",
+  "description": "TypeScript definitions for Scalar Types",
+  "version": "0.1.0",
+  "publisher": "a-bentofreire",
+  "keywords": [
+    "typescript",
+    "scalar",
+    "types"
+  ],
+  "readme": "README.md",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Alexandre Bento Freire",
+    "email": "dev@a-bentofreire.com",
+    "url": "https://github.com/a-bentofreire"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/a-bentofreire/scalartypes",
+  "bugs": "https://github.com/a-bentofreire/scalartypes/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-bentofreire/scalartypes"
+  },
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {},
+  "scripts": {
+  }
+}
